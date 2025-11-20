@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main() {
+    int n = 2;
+    if (n == 2) {
+        printf("n is equal to 2\n");
+    } else {
+        printf("n is not equal to 2\n");
+    }
+    return 0;
+}
