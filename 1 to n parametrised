@@ -6,7 +6,7 @@ void sum(int n, int s){
 }
 sum(n-1,s+n);
 return;
-}  
+}   
 int main() {
     int n;
     printf("Enter a number: ");
