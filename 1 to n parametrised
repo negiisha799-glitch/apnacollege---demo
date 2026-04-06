@@ -13,4 +13,4 @@ int main() {
     scanf("%d",&n);
     sum(n,0);
     return 0;
-}    
+}     
