@@ -3,7 +3,7 @@ void sum(int n, int s){
     if(n==0) {
         printf("%d\n", s);
     return;
-}
+}   
 sum(n-1,s+n);
 return;
 }   
